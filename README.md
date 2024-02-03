@@ -1,5 +1,5 @@
 # Predicting the Trajectory of a Paper Airplane through Mathematical Modelling
-### A Physics and Mathematical approach to analysing the trajectory and flight phases of paper airplanes at different initial launch (pitch) angles
+**A Physics and Mathematical approach to analysing the trajectory and flight phases of paper airplanes at different initial launch (pitch) angles**
 
 * Paper Airplanes are a  cheap and convenient modelling tool for the design of MAV (Micro Air Vehicles) as they both have low Reynolds numbers. Investigating the properties of paper planes can help us to better design MAVs.
 * We investigated the effect of the launch angle on the **2D trajectory** of the paper Airplane.
