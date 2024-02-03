@@ -3,9 +3,9 @@
 
 Paper Airplanes are a  cheap and convenient modelling tool for the design of MAV (Micro Air Vehicles) as they both have low Reynolds numbers. Investigating the properties of paper planes can help us to better design MAVs.
 
-We investigated the effect of the launch angle on the **trajectory** of the paper Airplane.
+We investigated the effect of the launch angle on the **2D trajectory** of the paper Airplane.
 
-Statistical tests and c
+A multivariate spline polynomial regression model was used to predict the trajectories, and Physics insights were obtained from there. 
 
 ### Data Collection
 A Suzanne Model paper airplane was folded with copy paper and a launching device with constant elastic force was used to launch the paper airplane at varying initial launch (pitch) angles from 0 to 40 degrees with intervals of 2 degrees, controlling the starting height at 1.00m
